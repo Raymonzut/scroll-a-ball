@@ -1,4 +1,5 @@
 (
-  title: "scroll-a-ball",
+  title: "Scroll a ball",
   dimensions: Some((500, 500)),
 )
+
